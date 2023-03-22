@@ -1,0 +1,41 @@
+Categorically then alphabetically-sorted list of mods we've tested in the past. **Obvious mentions and active mods don't need to be written down. 
+We all know CUP and ACE work.**
+Green mods constitute mods that are clear to enter use at any time.
+Yellow mods constitute mods that aren't actively used for a variety of reasons or have caveats to use.
+Red mods are mods that are on a strict no-use basis until critical issues are resolved.
+
+STATUS GREEN:
+
+Breach (Author: ASmallDinosaur):
+In Brief: Adds useful tools and scripts for breaching. This is likely to make it into the main modlist when the HTMLs are migrated to Github anyway.
+
+
+STATUS YELLOW:
+
+CSAT Modification Project:
+In Brief: Useful mod that adds immense drip to CSAT but has inconsistent quality, duplicate items and, most importantly, broken with ACE making CSAT gear very overpowered
+This doesn't pose a huge issue if the players are playing CSAT (so long as difficulty is balanced around this), but it's highly recommended not to field OPFOR CSAT
+with this modpack.
+Last Checked: Mar 22, 2023
+
+
+STATUS RED:
+
+Blastcore: Murr Edition
+In Brief: Graphical overhaul of many of the game's effects. Looks real pretty, but murders frames on all but the best rigs and makes the game unplayable for those on
+lower-end rigs. Could be whitelisted for clientside usage, but hasn't come up yet or been tested.
+
+Freestyles Crash Landings:
+In Brief: A mod that locks helicopters at "critical damage" but not full destruction until they hit the ground, making crash landing always viable and preventing 
+insta-death. The mod hasn't been updated since 2020 and as of last testing caused game-breaking bugs with HP, leading to players taking instant death from any damage.
+It also seems to break other vehicles, and make aircraft nigh-indistructible while dismounted.
+Last Checked: Nov 22, 2020
+
+Enhanced GPS:
+In Brief: A version of the GPS that looks better and is more readable, right up until you're in a vehicle. High-contrast colors and the addition of massive amounts
+of visual fluff makes reading the GPS impossible when you need it most. The GPS is also extremely bright during darker ops.
+Last Checked: Some time in 2022
+
+Enhanced Map:
+In Brief: Causes massive FPS loss to some users when opening the map, general FPS loss when zoomed out on the map.
+Last Checked: Some time in 2022
