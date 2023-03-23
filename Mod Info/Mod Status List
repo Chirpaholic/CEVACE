@@ -9,6 +9,11 @@ STATUS GREEN:
 Breach (Author: ASmallDinosaur):
 In Brief: Adds useful tools and scripts for breaching. This is likely to make it into the main modlist when the HTMLs are migrated to Github anyway.
 
+RSPN Cave Systems for Eden:
+In Brief: Adds some assets to Eden that allows the creation of caves. Too niche to always have on, but helpful for ops where you want caves.
+
+Any terrain by Temppa:
+In Brief: Temppa makes very lovely, well optimized, and novel terrains. They can all be found https://steamcommunity.com/sharedfiles/filedetails/?id=1729748354 here.
 
 STATUS YELLOW:
 
@@ -25,12 +30,6 @@ Blastcore: Murr Edition
 In Brief: Graphical overhaul of many of the game's effects. Looks real pretty, but murders frames on all but the best rigs and makes the game unplayable for those on
 lower-end rigs. Could be whitelisted for clientside usage, but hasn't come up yet or been tested.
 
-Freestyles Crash Landings:
-In Brief: A mod that locks helicopters at "critical damage" but not full destruction until they hit the ground, making crash landing always viable and preventing 
-insta-death. The mod hasn't been updated since 2020 and as of last testing caused game-breaking bugs with HP, leading to players taking instant death from any damage.
-It also seems to break other vehicles, and make aircraft nigh-indistructible while dismounted.
-Last Checked: Nov 22, 2020
-
 Enhanced GPS:
 In Brief: A version of the GPS that looks better and is more readable, right up until you're in a vehicle. High-contrast colors and the addition of massive amounts
 of visual fluff makes reading the GPS impossible when you need it most. The GPS is also extremely bright during darker ops.
@@ -39,3 +38,12 @@ Last Checked: Some time in 2022
 Enhanced Map:
 In Brief: Causes massive FPS loss to some users when opening the map, general FPS loss when zoomed out on the map.
 Last Checked: Some time in 2022
+
+Freestyles Crash Landings:
+In Brief: A mod that locks helicopters at "critical damage" but not full destruction until they hit the ground, making crash landing always viable and preventing 
+insta-death. The mod hasn't been updated since 2020 and as of last testing caused game-breaking bugs with HP, leading to players taking instant death from any damage.
+It also seems to break other vehicles, and make aircraft nigh-indistructible while dismounted.
+Last Checked: Nov 22, 2020
+
+Toresk Terrain:
+In Brief: A really lovely terrain that's downright unrunnable even with zero assets in singleplayer. 
