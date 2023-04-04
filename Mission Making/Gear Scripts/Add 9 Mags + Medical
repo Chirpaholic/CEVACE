@@ -1,0 +1,27 @@
+// Don't copy this comment, start at line 3. When put in the init.sqf, this will give every player a basic kit of 9 magazines, 8 bandages, and some loose medical supplies.
+
+{
+_priMag = primaryWeaponMagazine _x select 0;
+for "_i" from 1 to 6 do {
+_x addItemToVest _priMag;
+};
+
+for "_i" from 1 to 3 do {
+_x addItemToUniform _priMag;
+};
+
+for "_i" from 1 to 8 do {
+_x addItemToVest "ACE_fieldDressing";
+};
+
+_x addItemToVest "ACE_bloodIV_500";
+
+_x addItemToUniform "ACE_morphine";
+
+_x addItemToUniform "ACE_Epinephrine";
+
+_x addItemToUniform "HandGrenade";
+
+_x addItemToBackpack "SmokeShell";
+}
+forEach playableUnits; 
